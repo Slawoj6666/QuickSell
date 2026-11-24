@@ -59,25 +59,5 @@ do frontend-u użyty jest Vite dla możliwości szybkiego i prostego zobaczenia 
 do Backend-u jest użyte node-js dla, jego dobrej dokumentacji i niskiego progu znajomości, z biblioteką cors i express.
 
 
-
-
-
-
-## do zrobienia
-### client
-
-### server
-
-- [ ] api
-    - [ ] test
-
-
-
-
-
-
-
-
-
 # Twórcy
 Grupa 4
