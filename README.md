@@ -59,8 +59,8 @@ Po uruchomieniu aplikacja będzie dostępna pod adresami:
 
 ### server
 
-- [] api
- - [] test
+- [ ] api
+    - [ ] test
 
 
 
