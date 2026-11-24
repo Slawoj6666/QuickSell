@@ -5,9 +5,9 @@ Strona dająca użytkownikom tworzyć ogłoszenia z Zdjęciami obiektu, posiadaj
 ## struktura Projektu
 ```text
 QuickSell/
-├── .gitignore                # Pliki i foldery ignorowane przez Git
-├── README.md                 # Dokumentacja projektu
-├── package.json              # Główne skrypty uruchamiające frontend i backend jednocześnie
+├── .gitignore                
+├── README.md                 
+├── package.json              
 ├── client/                   # Frontend (React + Vite)
 │   ├── public/               # Zasoby statyczne
 │   ├── src/
@@ -17,8 +17,8 @@ QuickSell/
 │   │   ├── App.jsx           # Główny komponent aplikacji
 │   │   └── main.jsx          # Punkt wejścia React
 │   ├── index.html            # Szablon HTML
-│   ├── package.json          # Zależności frontendu
-│   └── vite.config.js        # Konfiguracja Vite (w tym proxy do API)
+│   ├── package.json          
+│   └── vite.config.js       
 └── server/                   # Backend (Node.js + Express)
     ├── src/
     │   ├── controllers/      # Logika obsługi żądań
