@@ -26,7 +26,6 @@ my-fullstack-app/
     │   ├── routes/           # Definicje ścieżek (endpointów) API
     │   ├── middleware/       # Funkcje pośredniczące (autoryzacja, obsługa błędów)
     │   └── index.js          # Punkt wejścia serwera
-    ├── .env                  # Zmienne środowiskowe (ignorowane przez Git)
     ├── .env.example          # Przykładowa konfiguracja zmiennych środowiskowych
     └── package.json          # Zależności backendu
 ```
