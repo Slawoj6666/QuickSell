@@ -54,10 +54,14 @@ Po uruchomieniu aplikacja będzie dostępna pod adresami:
 
 ## użyte technologie
 ### frontend
-do frontend-u użyty jest Vite dla możliwości szybkiego i prostego zobaczenia zmian w codzie frontend-u.
+do frontend-u użyty jest React z Vite dla możliwości szybkiego i prostego zobaczenia zmian w codzie frontend-u.
 ### backend
-do Backend-u jest użyte node-js dla, jego dobrej dokumentacji i niskiego progu znajomości, z biblioteką cors i express.
-
+do Backend-u jest użyte node-js dla, jego dobrej dokumentacji i niskiego progu znajomości, z użycią biblioteką cors i express.
+### bazy dane
+PostgreSQL:
+używana do przechowywania użytkowników, kategori, podstawowych danych ogłoszeń, i ogłoszeń obserowanych.
+MongoDB:
+używane do przechowywania bardziej dynamicznych danych takich jak wiadomości czatu, elastycznych atrybut ogłoszeń.
 
 # Twórcy
 Grupa 4
