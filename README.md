@@ -1,4 +1,5 @@
 # QuickSell
+--------
 
 Strona dająca użytkownikom tworzyć ogłoszenia z Zdjęciami obiektu, posiadająca wyszukiwarkę dla kupujących i mająca możliwość Rozmowy pomiędzy kupującym i sprzedającym.
 
@@ -62,6 +63,5 @@ Po uruchomieniu aplikacja będzie dostępna pod adresami:
 
 
 
-
-Twórcy:
+# Twórcy
 Grupa 4
