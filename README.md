@@ -54,6 +54,14 @@ Po uruchomieniu aplikacja będzie dostępna pod adresami:
 * **Frontend:** `http://localhost:5173`
 * **Backend API:** `http://localhost:5000/api/health`
 
+## todo 
+### client
+
+### server
+
+- [] api
+ - [] test
+
 
 
 
