@@ -61,6 +61,7 @@ do Backend-u jest użyte node-js dla, jego dobrej dokumentacji i niskiego progu 
 PostgreSQL:
 używana do przechowywania użytkowników, kategori, podstawowych danych ogłoszeń, i ogłoszeń obserowanych.
 MongoDB:
+używana dla bardziej dynamicznych danych takich jak wiadomości czatu i elastycznych atrybutuw ogłoszeń.
 używane do przechowywania bardziej dynamicznych danych takich jak wiadomości czatu, elastycznych atrybut ogłoszeń.
 
 # Twórcy
