@@ -11,7 +11,7 @@ PostgreSQL:
 dla użytkowników,kategori, ogłoszeń i obserwowanych.
 
 # jak urochomić?
-W CMD wejść w folder projektu i użyc 'npm run dev' co uruchomi server i klient
+W CMD wejść w folder projektu i użyc `npm run dev` co uruchomi server i klient
 
 
 
