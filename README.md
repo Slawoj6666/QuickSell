@@ -33,10 +33,10 @@ QuickSell/
 1. sklonuj repozytorium
  ```bash
   git clone https://github.com/Slawoj6666/QuickSell.git
-  cd QuickSell/
+  cd QuickSell
  ```
 2. zainstaluj wszystkie potrzebne biblioteki
-   ```
+   ```bash
    npm run install:all
    ```
 3. **skonfiguruj zmienne środkowe**
