@@ -1,5 +1,4 @@
 # QuickSell
---------
 
 Strona dająca użytkownikom tworzyć ogłoszenia z Zdjęciami obiektu, posiadająca wyszukiwarkę dla kupujących i mająca możliwość Rozmowy pomiędzy kupującym i sprzedającym.
 
