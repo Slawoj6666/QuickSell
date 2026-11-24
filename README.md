@@ -40,7 +40,7 @@ QuickSell/
    npm run install:all
    ```
 3. **skonfiguruj zmienne środkowe**
- serwer node bierze port na którym ma być uruchomiony z pliku.env, skopiuj plik i uzupełnij swoje dane.
+ serwer node.js bierze port na którym ma być uruchomiony z pliku.env, skopiuj plik domyślny, lub zrób własny i uzupełnij swoje dane.
    ```bash
    cp server/.env.example server/.env
    ```
