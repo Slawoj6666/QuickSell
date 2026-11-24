@@ -31,10 +31,10 @@ QuickSell/
 ## instalacja i uruchumienie projektu lokalnie
 
 1. sklonuj repozytorium
- ```bash
-  git clone https://github.com/Slawoj6666/QuickSell.git
-  cd QuickSell
- ```
+   ```bash
+    git clone https://github.com/Slawoj6666/QuickSell.git
+    cd QuickSell
+   ```
 2. zainstaluj wszystkie potrzebne biblioteki
    ```bash
    npm run install:all
