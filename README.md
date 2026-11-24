@@ -54,13 +54,13 @@ Po uruchomieniu aplikacja będzie dostępna pod adresami:
 
 ## użyte technologie
 ### wersje zależności
-React - 19.3.1
-React-dom - 19.3.1
-Vite - 8.3.6
-cors - 2.8.6
-dotenv - 18.0.10
-express - 5.3.0
-node - 3 ( 18.12+)
+React - 19.3.1 /
+React-dom - 19.3.1 /
+Vite - 8.3.6 /
+cors - 2.8.6 /
+dotenv - 18.0.10 /
+express - 5.3.0 /
+node - 3 ( 18.12+) /
 ### frontend
 do frontend-u użyty jest React z Vite dla możliwości szybkiego i prostego zobaczenia zmian w codzie frontend-u.
 ### backend
